@@ -8,7 +8,7 @@
     "express": "^4.17.0",
     "jsonwebtoken": "^8.5.1",
     "pg": "^6.4.2",
-    "sequelize": "^4.44.0"
+    "sequelize": "^5.15.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
